@@ -41,7 +41,11 @@
 相比很多机场只有 1GB 或者完全不提供试用，Runway 的试用额度确实相对大方。
 
 ---
+## 节点和速度情况截图（有图为证）
+[![Runway Cloud 测速](https://raw.githubusercontent.com/lanpangyun/runway-cloud/refs/heads/main/image/runway-cesu.jpg)](https://raw.githubusercontent.com/lanpangyun/runway-cloud/refs/heads/main/image/runway-cesu.jpg)
+[![Runway Cloud 测速2](https://raw.githubusercontent.com/lanpangyun/runway-cloud/refs/heads/main/image/runway-cesu2.jpg)](https://raw.githubusercontent.com/lanpangyun/runway-cloud/refs/heads/main/image/runway-cesu2.jpg)
 
+---
 # Runway 云机场靠谱吗？
 
 ## 先说结论
