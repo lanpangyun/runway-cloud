@@ -17,6 +17,13 @@
 > 返佣比例这么高？
 >
 > 会不会是准备割韭菜跑路？
+---
+ ## ✅同样提供试用套餐的机场：
+1、[奈云](https://www.anyaff.cc?path=register&code=93Crp7Fp) 168/年每月有168g，按量不限时的是98元=280g  [2g试用】AFF机制和这里介绍的这个差不多。
+2、[Phantom](https://www.zhaozhishi.net/jichang/feiniaoyun/#airport-phantom)：新用户注册即享5G免费试用1天，无需付费即可体验。
+3、[网际快车](https://github.com/lanpangyun/wangjikuaiche)：新用户免费试用5G，名义上24小时，实际几小时。
+4、[迅连](https://github.com/jichang2026/xunlianjichang-vpn)：邮箱验证注册后赠送10G，名义上有效期1天。
+5、[宝贝云](https://web1.bby004.com/#/register?code=V3qsWD11)：注册即送10G流量，24小时有效，方便体验后决策。
 
 那么，Runway 云机场到底值不值得尝试？本文从套餐价格、试用政策、返佣机制以及风险角度简单分析。
 
